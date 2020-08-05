@@ -22,7 +22,7 @@
     "csvtojson": "^2.0.10",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "fs": "0.0.1-security",
     "mongo-export": "^0.3.1",
     "mongoose": "^5.8.11",
