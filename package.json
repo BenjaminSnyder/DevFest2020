@@ -26,6 +26,6 @@
     "fs": "0.0.1-security",
     "mongo-export": "^0.3.1",
     "mongoose": "^5.8.11",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
